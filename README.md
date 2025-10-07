@@ -4,12 +4,12 @@ A desktop-based Connect Four–style game I built for my **Prog II** class in **
 
 ---
 
-## 🧠 Tech
+## Tech
 - Java
 
 ---
 
-## 🎮 Features
+## Features
 - Adjustable board size and win condition (Connect 3–8)
 - Custom player names
 - Undo last move
@@ -19,12 +19,12 @@ A desktop-based Connect Four–style game I built for my **Prog II** class in **
 
 ---
 
-## 🖼️ Preview
+## Preview
 ![Screenshot](images/chip.png)
 
 ---
 
-## ▶️ Run
+## Run
 
 **Option 1 – In an IDE (Eclipse / IntelliJ)**  
 Compile and run `ConnectNMain.java`.
