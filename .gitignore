@@ -1,0 +1,11 @@
+# Ignore compiled files and IDE data
+*.class
+/.classpath
+/.project
+/.settings/
+/bin/
+/out/
+/idea/
+/*.iml
+.DS_Store
+Thumbs.db
