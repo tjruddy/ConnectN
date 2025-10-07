@@ -20,7 +20,7 @@ A desktop-based Connect Four–style game I built for my **Prog II** class in **
 ---
 
 ## Preview
-<p align="center">
+<p align="left">
   <img src="images/connect_n.png" alt="Personalized chip" width="250"/>
 </p>
 
