@@ -5,7 +5,7 @@ public class ConnectNMain {
         SwingUtilities.invokeLater(() -> {
             ConnectNGame defaultGame = new ConnectNGame(6, 7, 4, "Player 1", "Player 2");
             ConnectNFrame frame = new ConnectNFrame(defaultGame);
-            frame.setVisible(false);
+            frame.setVisible(true);
             frame.startNewGameDialog();
         });
     }
